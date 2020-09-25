@@ -1,4 +1,4 @@
-I'm an iOS engineer practicing engineering manager role. I live in Ho Chi Minh city, Viet Nam and currently work at Zalo (VNG Corporation).
+I'm an iOS () engineer practicing engineering manager role. I live in Ho Chi Minh city, Viet Nam and currently work at Zalo (VNG Corporation).
 
 ### Writing
 - 💬 I share what I've learned on software engineering on [my blog](https://trungp.dev/) with a desire to challenge myself by writing down my understanding to reinforce and refine my knowledge.
