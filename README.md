@@ -1,6 +1,3 @@
-<!--
-**eldesperado/eldesperado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm an iOS engineer practicing engineering manager role. I live in Ho Chi Minh city, Viet Name and currently work at Zalo (VNG Corporation).
 
 ### Writing
@@ -16,4 +13,7 @@ If you're interested in my work experience, please read more at [my blog](https:
 ### Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/trungpnn/) or at trungpnn92 (at) gmail.com.
+
+<!--
+**eldesperado/eldesperado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
